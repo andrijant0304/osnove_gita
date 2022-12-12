@@ -1,0 +1,5 @@
+noviFajl.txt
+test_output/
+*.txt
+.idea/
+.gitignore/
