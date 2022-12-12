@@ -1,5 +1,6 @@
-noviFajl.txt
-test_output/
-*.txt
 .idea/
-.gitignore/
+
+*2022*/
+*.pdf
+logs_*
+library/*.zip
