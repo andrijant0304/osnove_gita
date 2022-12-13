@@ -4,3 +4,11 @@
 *.pdf
 logs_*
 library/*.zip
+
+
+*.users
+*.db
+*.properties
+*.keys
+*.pem
+
