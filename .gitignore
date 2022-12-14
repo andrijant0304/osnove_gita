@@ -4,6 +4,7 @@
 *.pdf
 logs_*
 library/*.zip
+<<<<<<< HEAD
 
 
 *.users
@@ -12,3 +13,6 @@ library/*.zip
 *.keys
 *.pem
 
+=======
+svastara/
+>>>>>>> 4afdd36e2c3979e32d65ec4647d5bb767d32f7d5
