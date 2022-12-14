@@ -13,4 +13,5 @@ library/*.zip
 *.keys
 *.pem
 
+bin/
 
